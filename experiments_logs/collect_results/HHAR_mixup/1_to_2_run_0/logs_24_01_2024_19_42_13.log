@@ -1,0 +1,288 @@
+=============================================
+Dataset: OPP
+Method:  CoTMix
+=============================================
+Source: 1 ---> Target: 2
+Run ID: 0
+=============================================
+[Epoch : 1/40]
+Total_loss	: 1.1611
+src_cls_loss	: 0.8478
+trg_entropy_loss	: 1.3303
+src_supcon_loss	: 1.9404
+trg_con_loss	: 3.0707
+-------------------------------------
+[Epoch : 2/40]
+Total_loss	: 1.0303
+src_cls_loss	: 0.6807
+trg_entropy_loss	: 1.2640
+src_supcon_loss	: 1.9801
+trg_con_loss	: 2.9259
+-------------------------------------
+[Epoch : 3/40]
+Total_loss	: 0.9540
+src_cls_loss	: 0.5857
+trg_entropy_loss	: 1.2288
+src_supcon_loss	: 1.9758
+trg_con_loss	: 2.8495
+-------------------------------------
+[Epoch : 4/40]
+Total_loss	: 0.8998
+src_cls_loss	: 0.5206
+trg_entropy_loss	: 1.2064
+src_supcon_loss	: 1.9542
+trg_con_loss	: 2.7964
+-------------------------------------
+[Epoch : 5/40]
+Total_loss	: 0.8586
+src_cls_loss	: 0.4708
+trg_entropy_loss	: 1.1876
+src_supcon_loss	: 1.9371
+trg_con_loss	: 2.7594
+-------------------------------------
+[Epoch : 6/40]
+Total_loss	: 0.8240
+src_cls_loss	: 0.4309
+trg_entropy_loss	: 1.1701
+src_supcon_loss	: 1.9052
+trg_con_loss	: 2.7335
+-------------------------------------
+[Epoch : 7/40]
+Total_loss	: 0.7959
+src_cls_loss	: 0.3982
+trg_entropy_loss	: 1.1541
+src_supcon_loss	: 1.8855
+trg_con_loss	: 2.7093
+-------------------------------------
+[Epoch : 8/40]
+Total_loss	: 0.7734
+src_cls_loss	: 0.3717
+trg_entropy_loss	: 1.1400
+src_supcon_loss	: 1.8719
+trg_con_loss	: 2.6901
+-------------------------------------
+[Epoch : 9/40]
+Total_loss	: 0.7544
+src_cls_loss	: 0.3500
+trg_entropy_loss	: 1.1280
+src_supcon_loss	: 1.8547
+trg_con_loss	: 2.6753
+-------------------------------------
+[Epoch : 10/40]
+Total_loss	: 0.7369
+src_cls_loss	: 0.3307
+trg_entropy_loss	: 1.1161
+src_supcon_loss	: 1.8341
+trg_con_loss	: 2.6613
+-------------------------------------
+[Epoch : 11/40]
+Total_loss	: 0.7220
+src_cls_loss	: 0.3139
+trg_entropy_loss	: 1.1049
+src_supcon_loss	: 1.8212
+trg_con_loss	: 2.6489
+-------------------------------------
+[Epoch : 12/40]
+Total_loss	: 0.7088
+src_cls_loss	: 0.2994
+trg_entropy_loss	: 1.0959
+src_supcon_loss	: 1.8062
+trg_con_loss	: 2.6375
+-------------------------------------
+[Epoch : 13/40]
+Total_loss	: 0.6968
+src_cls_loss	: 0.2866
+trg_entropy_loss	: 1.0865
+src_supcon_loss	: 1.7915
+trg_con_loss	: 2.6271
+-------------------------------------
+[Epoch : 14/40]
+Total_loss	: 0.6861
+src_cls_loss	: 0.2751
+trg_entropy_loss	: 1.0775
+src_supcon_loss	: 1.7763
+trg_con_loss	: 2.6196
+-------------------------------------
+[Epoch : 15/40]
+Total_loss	: 0.6764
+src_cls_loss	: 0.2648
+trg_entropy_loss	: 1.0685
+src_supcon_loss	: 1.7643
+trg_con_loss	: 2.6120
+-------------------------------------
+[Epoch : 16/40]
+Total_loss	: 0.6671
+src_cls_loss	: 0.2553
+trg_entropy_loss	: 1.0608
+src_supcon_loss	: 1.7492
+trg_con_loss	: 2.6044
+-------------------------------------
+[Epoch : 17/40]
+Total_loss	: 0.6587
+src_cls_loss	: 0.2466
+trg_entropy_loss	: 1.0533
+src_supcon_loss	: 1.7364
+trg_con_loss	: 2.5977
+-------------------------------------
+[Epoch : 18/40]
+Total_loss	: 0.6509
+src_cls_loss	: 0.2387
+trg_entropy_loss	: 1.0458
+src_supcon_loss	: 1.7241
+trg_con_loss	: 2.5916
+-------------------------------------
+[Epoch : 19/40]
+Total_loss	: 0.6440
+src_cls_loss	: 0.2315
+trg_entropy_loss	: 1.0392
+src_supcon_loss	: 1.7141
+trg_con_loss	: 2.5852
+-------------------------------------
+[Epoch : 20/40]
+Total_loss	: 0.6369
+src_cls_loss	: 0.2247
+trg_entropy_loss	: 1.0321
+src_supcon_loss	: 1.7003
+trg_con_loss	: 2.5798
+-------------------------------------
+[Epoch : 21/40]
+Total_loss	: 0.6307
+src_cls_loss	: 0.2185
+trg_entropy_loss	: 1.0259
+src_supcon_loss	: 1.6897
+trg_con_loss	: 2.5746
+-------------------------------------
+[Epoch : 22/40]
+Total_loss	: 0.6248
+src_cls_loss	: 0.2128
+trg_entropy_loss	: 1.0196
+src_supcon_loss	: 1.6791
+trg_con_loss	: 2.5701
+-------------------------------------
+[Epoch : 23/40]
+Total_loss	: 0.6193
+src_cls_loss	: 0.2074
+trg_entropy_loss	: 1.0141
+src_supcon_loss	: 1.6696
+trg_con_loss	: 2.5650
+-------------------------------------
+[Epoch : 24/40]
+Total_loss	: 0.6136
+src_cls_loss	: 0.2021
+trg_entropy_loss	: 1.0078
+src_supcon_loss	: 1.6567
+trg_con_loss	: 2.5607
+-------------------------------------
+[Epoch : 25/40]
+Total_loss	: 0.6085
+src_cls_loss	: 0.1972
+trg_entropy_loss	: 1.0020
+src_supcon_loss	: 1.6474
+trg_con_loss	: 2.5565
+-------------------------------------
+[Epoch : 26/40]
+Total_loss	: 0.6037
+src_cls_loss	: 0.1927
+trg_entropy_loss	: 0.9970
+src_supcon_loss	: 1.6379
+trg_con_loss	: 2.5522
+-------------------------------------
+[Epoch : 27/40]
+Total_loss	: 0.5994
+src_cls_loss	: 0.1886
+trg_entropy_loss	: 0.9914
+src_supcon_loss	: 1.6294
+trg_con_loss	: 2.5486
+-------------------------------------
+[Epoch : 28/40]
+Total_loss	: 0.5951
+src_cls_loss	: 0.1845
+trg_entropy_loss	: 0.9860
+src_supcon_loss	: 1.6215
+trg_con_loss	: 2.5453
+-------------------------------------
+[Epoch : 29/40]
+Total_loss	: 0.5909
+src_cls_loss	: 0.1807
+trg_entropy_loss	: 0.9811
+src_supcon_loss	: 1.6115
+trg_con_loss	: 2.5420
+-------------------------------------
+[Epoch : 30/40]
+Total_loss	: 0.5868
+src_cls_loss	: 0.1770
+trg_entropy_loss	: 0.9759
+src_supcon_loss	: 1.6029
+trg_con_loss	: 2.5386
+-------------------------------------
+[Epoch : 31/40]
+Total_loss	: 0.5829
+src_cls_loss	: 0.1734
+trg_entropy_loss	: 0.9707
+src_supcon_loss	: 1.5946
+trg_con_loss	: 2.5355
+-------------------------------------
+[Epoch : 32/40]
+Total_loss	: 0.5792
+src_cls_loss	: 0.1701
+trg_entropy_loss	: 0.9659
+src_supcon_loss	: 1.5862
+trg_con_loss	: 2.5320
+-------------------------------------
+[Epoch : 33/40]
+Total_loss	: 0.5758
+src_cls_loss	: 0.1670
+trg_entropy_loss	: 0.9609
+src_supcon_loss	: 1.5796
+trg_con_loss	: 2.5288
+-------------------------------------
+[Epoch : 34/40]
+Total_loss	: 0.5725
+src_cls_loss	: 0.1641
+trg_entropy_loss	: 0.9565
+src_supcon_loss	: 1.5721
+trg_con_loss	: 2.5259
+-------------------------------------
+[Epoch : 35/40]
+Total_loss	: 0.5693
+src_cls_loss	: 0.1613
+trg_entropy_loss	: 0.9521
+src_supcon_loss	: 1.5649
+trg_con_loss	: 2.5233
+-------------------------------------
+[Epoch : 36/40]
+Total_loss	: 0.5662
+src_cls_loss	: 0.1586
+trg_entropy_loss	: 0.9472
+src_supcon_loss	: 1.5579
+trg_con_loss	: 2.5209
+-------------------------------------
+[Epoch : 37/40]
+Total_loss	: 0.5633
+src_cls_loss	: 0.1559
+trg_entropy_loss	: 0.9429
+src_supcon_loss	: 1.5513
+trg_con_loss	: 2.5181
+-------------------------------------
+[Epoch : 38/40]
+Total_loss	: 0.5603
+src_cls_loss	: 0.1534
+trg_entropy_loss	: 0.9386
+src_supcon_loss	: 1.5447
+trg_con_loss	: 2.5155
+-------------------------------------
+[Epoch : 39/40]
+Total_loss	: 0.5575
+src_cls_loss	: 0.1510
+trg_entropy_loss	: 0.9343
+src_supcon_loss	: 1.5374
+trg_con_loss	: 2.5132
+-------------------------------------
+[Epoch : 40/40]
+Total_loss	: 0.5548
+src_cls_loss	: 0.1487
+trg_entropy_loss	: 0.9301
+src_supcon_loss	: 1.5311
+trg_con_loss	: 2.5109
+-------------------------------------
+Accuracy: 53.199404761904766 	 F1: 46.879828978940395
