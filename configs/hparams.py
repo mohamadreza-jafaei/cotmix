@@ -31,8 +31,8 @@ class OPPORTUNITY_data():
     def __init__(self):
         super(OPPORTUNITY_data, self).__init__()
         self.train_params = {
-                'num_epochs': 30,
-                'batch_size': 64,
+                'num_epochs': 40,
+                'batch_size': 96,
                 'weight_decay': 1e-4,
         }
 

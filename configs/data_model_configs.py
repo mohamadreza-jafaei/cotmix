@@ -23,8 +23,8 @@ class OPPORTUNITY_data():
         self.num_classes = 5
 
         # CNN features
-        self.mid_channels = 64
-        self.final_out_channels = 128
+        self.mid_channels = 128
+        self.final_out_channels = 256
         self.features_len = 1
 
 
